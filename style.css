@@ -4,6 +4,7 @@ body {
     margin:0;
     font-family: 'Amatic SC', sans-serif ;
     color:#ffffff;
+    
 }
 /*HEADER*/
 
@@ -236,7 +237,7 @@ a:hover {
 }
 .card-text {
 
-    width: 39%;
+    width: 40%;
     font-family: sans-serif;
     letter-spacing: 1px;
     color:rgb(109,109,109);
