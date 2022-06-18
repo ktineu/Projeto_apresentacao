@@ -11,7 +11,7 @@ body {
 .header-wrapper {
 
     height:100vh;
-    width:100%;
+    width:100vw;
     background:linear-gradient(-45deg, rgb(215, 40, 40),rgb(14, 14, 172),rgb(209, 155, 164));
     background-size: 400% 400%;
     display:flex;
@@ -20,6 +20,7 @@ body {
     justify-content:center;
     position:relative;
     animation: backgroundTransition 8s ease-in-out infinite;
+    padding:0 10px;
 }
 h1 {
 
